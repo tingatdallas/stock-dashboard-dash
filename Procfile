@@ -1,0 +1,1 @@
+web: gunicorn multi_page_stock_dashboard:server
