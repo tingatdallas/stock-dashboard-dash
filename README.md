@@ -8,4 +8,3 @@
 
 ·	Tools: Python, Pandas, Dash and HTML/CSS.
 
-![image](https://user-images.githubusercontent.com/58377225/171043481-2bab0eb9-3952-4915-8f04-9dd3043f0ffa.png)
