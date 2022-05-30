@@ -8,3 +8,6 @@
 
 ·	Tools: Python, Pandas, Dash and HTML/CSS.
 
+·	Contact me at sutingatchicago@gmail.com
+
+
