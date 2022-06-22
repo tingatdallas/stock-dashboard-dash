@@ -1,7 +1,7 @@
 # stock-dashboard-dash
 
 ·	Built and deployed an interactive stock visualization web dashboard that fetches, processes and displays stock price and financial data with chart (check out at 
-https://stock-dashboard-su-4.herokuapp.com/page-1).(Note, it may take some time to load the web app.).
+https://stock-dashboard-su-4.herokuapp.com/page-1).
 
 ·	The dashboard app is useful for long-term investors who seek due diligence in stocks based on fundamentals (income statement, balance-sheet, etc.). 
 
